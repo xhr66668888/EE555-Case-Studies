@@ -33,10 +33,6 @@ But HDBSCAN shows Part 1 train FM=0.9855, Part 2 train FM=1.0 (test both 1.0).
 So AE 6D is slightly better and more stable.
 t-SNE also shows good separation, AE embedding is cleaner.
 
-What to submit
-Single PDF only (as activity says).
-Inside PDF: answer 1-5.
-Name and id on top page.
 
 Haoran Xu
 hx666
